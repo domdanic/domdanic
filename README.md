@@ -1,4 +1,4 @@
-## Hi there 👋
+Working out of private repos primarily. Real idea maker, fake code maker.
 
 <!--
 **domdanic/domdanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
