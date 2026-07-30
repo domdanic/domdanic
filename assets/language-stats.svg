@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="280" viewBox="0 0 660 280" role="img" aria-label="Aggregated programming language usage">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace; }
+.title { fill: #f0f6fc; font-size: 20px; font-weight: 700; }
+.subtitle { fill: #8b949e; font-size: 12px; }
+.language { fill: #c9d1d9; font-size: 14px; }
+.percentage { fill: #f0f6fc; font-size: 13px; font-weight: 600; }
+</style>
+<rect width="660" height="280" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect x="0" y="0" width="6" height="100%" rx="3" fill="#c93636"/>
+<text x="28" y="34" class="title">LANGUAGES IN THE FORGE</text>
+<text x="28" y="56" class="subtitle">Aggregated across 4 owned, non-fork repositories</text>
+<text x="28" y="96" class="language">C#</text>
+<rect x="180" y="83" width="350" height="16" rx="8" fill="#21262d"/>
+<rect x="180" y="83" width="202" height="16" rx="8" fill="#c93636"/>
+<text x="630" y="96" text-anchor="end" class="percentage">57.8%</text>
+<text x="28" y="139" class="language">CSS</text>
+<rect x="180" y="126" width="350" height="16" rx="8" fill="#21262d"/>
+<rect x="180" y="126" width="88" height="16" rx="8" fill="#c93636"/>
+<text x="630" y="139" text-anchor="end" class="percentage">25.3%</text>
+<text x="28" y="182" class="language">HTML</text>
+<rect x="180" y="169" width="350" height="16" rx="8" fill="#21262d"/>
+<rect x="180" y="169" width="56" height="16" rx="8" fill="#c93636"/>
+<text x="630" y="182" text-anchor="end" class="percentage">16.0%</text>
+<text x="28" y="225" class="language">JavaScript</text>
+<rect x="180" y="212" width="350" height="16" rx="8" fill="#21262d"/>
+<rect x="180" y="212" width="3" height="16" rx="8" fill="#c93636"/>
+<text x="630" y="225" text-anchor="end" class="percentage">0.9%</text>
+</svg>
