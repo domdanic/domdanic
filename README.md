@@ -2,7 +2,7 @@ Working out of private repos primarily. Real idea maker, fake code maker.
 
 ## Development Loadout
 
-![Languages in the Forge](./assets/language-stats.svg)
+![Languages](./assets/language-stats.svg)
 
 <!--
 **domdanic/domdanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
