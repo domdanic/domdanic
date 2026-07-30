@@ -169,7 +169,7 @@ def generate_svg(
             'fill="#0d1117" stroke="#30363d"/>'
         ),
         '<rect x="0" y="0" width="6" height="100%" rx="3" fill="#c93636"/>',
-        '<text x="28" y="34" class="title">LANGUAGES IN THE FORGE</text>',
+        '<text x="28" y="34" class="title">LANGUAGES</text>',
         (
             f'<text x="28" y="56" class="subtitle">'
             f'Aggregated across {repository_count} owned, non-fork repositories'
