@@ -14,7 +14,7 @@ text { font-family: ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', m
 <text x="28" y="96" class="language">C#</text>
 <rect x="180" y="83" width="350" height="16" rx="8" fill="#21262d"/>
 <rect x="180" y="83" width="249" height="16" rx="8" fill="#c93636"/>
-<text x="630" y="96" text-anchor="end" class="percentage">71.2%</text>
+<text x="630" y="96" text-anchor="end" class="percentage">71.0%</text>
 <text x="28" y="139" class="language">Common Lisp</text>
 <rect x="180" y="126" width="350" height="16" rx="8" fill="#21262d"/>
 <rect x="180" y="126" width="30" height="16" rx="8" fill="#c93636"/>
@@ -26,7 +26,7 @@ text { font-family: ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', m
 <text x="28" y="225" class="language">CSS</text>
 <rect x="180" y="212" width="350" height="16" rx="8" fill="#21262d"/>
 <rect x="180" y="212" width="17" height="16" rx="8" fill="#c93636"/>
-<text x="630" y="225" text-anchor="end" class="percentage">4.7%</text>
+<text x="630" y="225" text-anchor="end" class="percentage">4.8%</text>
 <text x="28" y="268" class="language">HTML</text>
 <rect x="180" y="255" width="350" height="16" rx="8" fill="#21262d"/>
 <rect x="180" y="255" width="11" height="16" rx="8" fill="#c93636"/>
@@ -37,6 +37,6 @@ text { font-family: ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', m
 <text x="630" y="311" text-anchor="end" class="percentage">2.8%</text>
 <text x="28" y="354" class="language">Other</text>
 <rect x="180" y="341" width="350" height="16" rx="8" fill="#21262d"/>
-<rect x="180" y="341" width="5" height="16" rx="8" fill="#c93636"/>
-<text x="630" y="354" text-anchor="end" class="percentage">1.5%</text>
+<rect x="180" y="341" width="6" height="16" rx="8" fill="#c93636"/>
+<text x="630" y="354" text-anchor="end" class="percentage">1.8%</text>
 </svg>
